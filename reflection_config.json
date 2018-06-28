@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "service.ServiceImplementation0",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  },
+  {
+    "name" : "service.ServiceImplementation1",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  }
+]
